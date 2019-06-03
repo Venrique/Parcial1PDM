@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulos">30sp</dimen>
+    <dimen name="sPadding">10dp</dimen>
+    <dimen name="puntaje">100sp</dimen>
+</resources>

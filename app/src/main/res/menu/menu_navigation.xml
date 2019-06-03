@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nuevo_partido"
+        android:icon="@drawable/baseline_add_white_18dp"
+        android:title="Nuevo Partido"/>
+    <item
+        android:id="@+id/ver_partidos"
+        android:icon="@drawable/baseline_visibility_white_18dp"
+        android:title="Ver Partidos"/>
+</menu>
